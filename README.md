@@ -52,13 +52,13 @@ If you discover any security related issues, please email shawnsandy04@gmail.com
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/shawnsandy/simple_kit.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/shawnsandy/laravel-simple-pack.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/LaravelToolKit/simple_pack/master.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/shawnsandy/simple_kit.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/LaravelToolKit/laravel-simple-pack/master.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/shawnsandy/laravel-simple-pack.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/shawnsandy/simple_kit
-[link-travis]: https://travis-ci.org/LaravelToolKit/simple_pack
-[link-downloads]: https://packagist.org/packages/shawnsandy/simple_kit
+[link-packagist]: https://packagist.org/packages/shawnsandy/laravel-simple-pack
+[link-travis]: https://travis-ci.org/LaravelToolKit/laravel-simple-pack
+[link-downloads]: https://packagist.org/packages/shawnsandy/laravel-simple-pack
 [link-author]: https://github.com/shawnsandy
 [link-contributors]: ../../contributors
